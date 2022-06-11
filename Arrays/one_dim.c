@@ -12,8 +12,9 @@ int main()
 
     printf("The array is: ");
 
-    for (int j=0;j<n;j++)
+    for (int i=0;i<n;i++)
     {
-        printf("%d ",arr[j]); //Printing each element
+        printf("%d ",arr[i]); //Printing each element
     }
+    return 0;
 }
