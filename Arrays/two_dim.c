@@ -13,7 +13,7 @@ int main()
     {
         for (int j=0;j<c;j++)
         {
-            scanf("%d",&arr[i][j]);
+            scanf("%d",&arr[i][j]); //Inputting the Aij value of a matrix
         }
     }
 

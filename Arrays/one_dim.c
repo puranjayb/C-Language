@@ -2,7 +2,7 @@
 int main()
 {
     int n;
-    scanf("%d",&n); //Inputting the number of elements
+    scanf("%d",&n); //Inputting the number of elements for the array
 
     int arr[n];
     for (int i=0;i<n;i++)
